@@ -120,7 +120,7 @@ function App() {
           <a href="https://twitter.com/cenkaanbolukbas">
             <FaXTwitter className="border w-14 h-14 p-2 rounded-full cursor-pointer hover:bg-slate-600" />
           </a>
-          <a href="https://github.com/">
+          <a href="https://github.com/cenkkaanbolukbas">
             <FaGithub className="border w-14 h-14 p-2 rounded-full cursor-pointer hover:bg-slate-600" />
           </a>
         </motion.div>
@@ -129,6 +129,7 @@ function App() {
                   {/* CONTACT */}
                   
         <motion.div variants={item} className="text-white mt-5 text-xl ">
+          
           Contact Me :  
           <a href="mailto:cenkkaanbolukbas@hotmail.com">
           <TypeAnimation
